@@ -1,0 +1,48 @@
+NAT — CV STARTER TEMPLATE
+
+FULL NAME:
+PROFESSIONAL EMAIL:
+PORTFOLIO URL:
+GITHUB:
+LINKEDIN (OPTIONAL):
+
+PROFILE
+Aspiring web developer interested in building accessible, responsive, thoughtfully interactive digital experiences. Rewrite this to accurately reflect your goals and experience.
+
+PROJECTS
+1. Mondrian Grid
+   What it does:
+   Technologies:
+   What you personally built:
+   Demo/repository:
+   What you learned:
+
+2. TinDog Clone
+   What it does:
+   Technologies:
+   What you personally built:
+   Demo/repository:
+   What you learned:
+
+3. Pricing Table
+   What it does:
+   Technologies:
+   What you personally built:
+   Demo/repository:
+   What you learned:
+
+EDUCATION
+[Institution, dates, qualification/current level — accurate details only]
+
+EXPERIENCE / ACTIVITIES
+[Role, dates, responsibilities and evidence — include only if applicable]
+
+SKILLS
+HTML:
+CSS:
+JavaScript:
+Python:
+Git/GitHub:
+Other tools:
+
+Reminder: Do not invent work experience, grades, certificates, or skill levels. Only publish personal details you are comfortable sharing.
